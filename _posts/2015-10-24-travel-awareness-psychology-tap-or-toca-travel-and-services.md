@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://tocatravel.com'
   name: 'Toca Travel & Services'
-  favicon: 'http://tocatravel.com/images/icons/favicon.ico'
   domain: tocatravel.com
+  url: 'http://tocatravel.com'
+  favicon: 'http://tocatravel.com/images/icons/favicon.ico'
 keywords:
   - travel
   - itineraries
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://tocatravel.com/tap.html'
 title: 'Travel Awareness Psychology TAP | Toca Travel & Services'
-datePublished: '2015-10-24T13:45:29.266Z'
-dateModified: '2015-10-24T13:41:58.669Z'
+datePublished: '2015-10-24T13:47:18.174Z'
+dateModified: '2015-10-24T13:47:07.819Z'
 sourcePath: _posts/2015-10-24-travel-awareness-psychology-tap-or-toca-travel-and-services.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
