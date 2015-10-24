@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ExploraConnect]]></title>
-        <description><![CDATA[ExploraConnect]]></description>
+        <title><![CDATA[Explora Connect Experiential Travel]]></title>
+        <description><![CDATA[Explora Connect Experiential Travel]]></description>
         <link>https://thegrid.ai/exploraconnect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 13:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 13:59:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/exploraconnect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Costa Rican Vibes]]></title>
+            <description><![CDATA[<article><h1>Costa Rican Vibes</h1><p>Costa Rican Vibes specializes in small boutique, luxury properties in Costa Rica, catering to the higher-end customer looking for special properties, bespoke vacations and out-of-this-world...</p><img src="http://www.costaricanvibes.com/uploads/8/8/8/2/8882512/1377276740.png"></article>]]></description>
+            <link>http://www.costaricanvibes.com/</link>
+            <guid isPermaLink="false">3802c5ea-e947-4534-b34c-f55b0f4fa88f</guid>
+            <pubDate>Sat, 24 Oct 2015 13:58:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Boutique</p>]]></description>
