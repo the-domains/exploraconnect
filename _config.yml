@@ -1,6 +1,6 @@
 name: ExploraConnect
 favicon: null
-layout_spectrum: 0.3369042039848864
+layout_spectrum: 0.52926
 typography_spectrum: 0.9562569952104241
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b5cde5'
     - '#684b39'
   brandStrength: 0.8165348845068365
-  lightness: 0.5900996301788837
-  saturation: 0.26429169275797904
-  rhythmicContrast: 0.9345587922725827
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
